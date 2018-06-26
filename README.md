@@ -1,5 +1,5 @@
 # 2001-Planets
-This mod edits the RSS planets to make them more like 2001, a Space Odyssey
+This mod edits the RSS planets to make them more like 2001: A Space Odyssey, and more specifically, 2061.
 
 -Jupiter has been deleted and replaced by the dim star Lucifer. The moons orbit Lucifer.
 
@@ -26,3 +26,9 @@ Just download RSS and its dependencies, then download this and move the 2001_Pla
   - Ganymede atmo added
   - Ganymede height map edited to make some small lakes and rivers
   - Io given HazardousOcean, heats up craft near it
+  
+# Known Issues
+ - Europa Atmosphere is not visible from space
+ - Europa's ocean turns pink when transitioning to Scaled
+ - Solar Power is an issue around Lucifer. If anyone knows how to change this please tell me!
+ - Temperatures are weird, and vary wildly over 100K. Sol is to blame, don't know how to fix.
