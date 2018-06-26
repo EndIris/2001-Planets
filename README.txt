@@ -24,3 +24,9 @@ Changelog
   Ganymede atmo added
   Ganymede height map edited to make some small lakes and rivers
   Io given HazardousOcean, heats up craft near it
+
+Known Issues
+ Europa's Atmosphere is not visible from space
+ Europa's ocean turns pink when transitioning to Scaled
+ Solar Power is an issue around Lucifer. If anyone knows how to change this please tell me!
+ Temperatures are weird, and vary wildly over 100K. Sol is to blame, don't know how to fix.
