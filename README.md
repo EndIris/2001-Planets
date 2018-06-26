@@ -20,10 +20,9 @@ Just download RSS and its dependencies, then download this and move the 2001_Pla
   - Europa atmo height increased
   - Europa scaled textures updated, exported from Kittopia
   - Europa PQS Height Noise decreased to not go above oceans
-  - Lucifer dimmed, sunflare shrunk
+  - Lucifer dimmed, corona shrunk
   - Lucifer orbit color changed to red
   - Ganymede deleted, replaced by new body (still named Ganymede in-game)
   - Ganymede atmo added
   - Ganymede height map edited to make some small lakes and rivers
   - Io given HazardousOcean, heats up craft near it
-  - Lucifer dimmed, corona shrunk
