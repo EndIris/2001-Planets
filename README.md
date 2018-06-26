@@ -32,3 +32,4 @@ Just download RSS and its dependencies, then download this and move the 2001_Pla
  - Europa's ocean turns pink when transitioning to Scaled
  - Solar Power is an issue around Lucifer. If anyone knows how to change this please tell me!
  - Temperatures are weird, and vary wildly over 100K. Sol is to blame, don't know how to fix.
+ - Moons don't start in the same positions as in RSS, despite the values being the same. (Unconfirmed)
