@@ -13,7 +13,9 @@ Just download RSS and its dependencies, then download this and move the 2001_Pla
 Changelog
 1.0.1
   - Europa Temperature and Pressure fixed in infobox
-  - Europa PQS frequency decreased
+  - Europa PQS frequency/octaves decreased
+  - Europa meanAnomaly + initialRotation changed
+  - Europa heightmap edited slightly
   
 1.0.0 - Initial Release
   - Europa given its own ocean instead of Laythe clone
