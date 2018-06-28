@@ -35,8 +35,7 @@ Just download RSS and its dependencies, then download this and move the 2001_Pla
   
   
 # Known Issues
- - Europa Atmosphere is not visible from space
  - Europa's ocean turns pink when transitioning to Scaled
- - Solar Power is an issue around Lucifer. If anyone knows how to change this please tell me!
+ - Solar Power is way too high for Lucifer from its moons. If anyone knows how to change this please tell me!
  - Temperatures are weird, and vary wildly over 100K. Sol is to blame, don't know how to fix.
- - Moons don't start in the same positions as in RSS, despite the values being the same. (Unconfirmed)
+ - Moons are only approximately in the same positions as in RSS. Mean Anomalies could be off by 3 to 5 degrees
