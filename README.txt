@@ -21,6 +21,9 @@ In Stock games, Kopernicus must be installed and moved into your GameData folder
 In GPP or RealSolarSystem games, install that mod and all of its dependencies into your GameData folder. Then download this mod and move the 2001_Planets folder into your GameData folder.
 
 # Changelog
+1.2.0
+  - Changed cloud map and config
+
 1.1.0
   - Added compatibility for stock games and GPP games
     - Radius and gravity changed to fit better into the stock scale
